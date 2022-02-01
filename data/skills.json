@@ -1,0 +1,21 @@
+[
+  {
+    "skills": [
+      "JavaScript",
+      "TypeScript (начальные знания)",
+      "React",
+      "Redux",
+      "NextJS (SSR) (начальные знания)",
+      "HTML",
+      "CSS",
+      "Less",
+      "Sass",
+      "styled-components",
+      "classnames",
+      "Адаптивная, кроссбраузерная, семантичная верстка",
+      "Инструменты сборки: Gulp, Webpack",
+      "Модульное тестирование (Jest, React-testing-library начальные знания)",
+      "NodeJS (начальные знания)"
+    ]
+  }
+]

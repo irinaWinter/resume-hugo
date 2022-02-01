@@ -1,0 +1,34 @@
+title = "Ирина Коржева"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "ru-ru"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Москва"
+email = "lobanova.irina.96@mail.ru"
+favicon = "/favicon.ico"
+firstName = "Ирина"
+lastName = "Коржева"
+phone = "+7-995-990-64-14"
+profileImage = "img/img.jpeg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = false
+showSkills = true
+
+[[params.handles]]
+link = "https://github.com/irinaWinter"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

@@ -1,9 +1,9 @@
 {
 "title": "Таймер",
 "date": "2022-01-02T12:45:05-05:00",
-"image": "/img/timer.jpg",
+"image": "img/timer.jpg",
 "link": "https://github.com/irinaWinter/timer-advent-2021",
-"image": "/img/timer.jpg",
+"image": "img/timer.jpg",
 "description": "Таймер запускается по клику на кнопку Start.<br>После запуска слово Start меняется на слово Stop, нажав на которое можно остановить таймер.<br>Нажатие на иконку шестеренок переводит таймер в режим редактирования времени.<br>При истечении времени появляется оповещение в виде модального окна.",
 "tags": ["React","Redux","TypeScript"],
 "fact": "",

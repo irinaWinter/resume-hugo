@@ -1,5 +1,5 @@
 title = "Ирина Коржева"
-baseURL = "https://example.com/"
+baseURL = "https://irinawinter.github.io/resume-hugo/public"
 theme = "hugo-resume"
 languageCode = "ru-ru"
 PygmentsCodeFences = true

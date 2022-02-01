@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TypeScript on Ирина Коржева</title>
+    <link>https://irinawinter.github.io/resume-hugo/public/tags/typescript/</link>
+    <description>Recent content in TypeScript on Ирина Коржева</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 02 Jan 2022 12:45:05 -0500</lastBuildDate><atom:link href="https://irinawinter.github.io/resume-hugo/public/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Таймер</title>
+      <link>https://irinawinter.github.io/resume-hugo/public/projects/creations/timer/</link>
+      <pubDate>Sun, 02 Jan 2022 12:45:05 -0500</pubDate>
+      
+      <guid>https://irinawinter.github.io/resume-hugo/public/projects/creations/timer/</guid>
+      <description> Таймер запускается по клику на кнопку Start. После запуска слово Start меняется на слово Stop, нажав на которое можно остановить таймер. Нажатие на иконку шестеренок переводит таймер в режим редактирования времени. При истечении времени появляется оповещение в виде модального окна.  </description>
+    </item>
+    
+  </channel>
+</rss>

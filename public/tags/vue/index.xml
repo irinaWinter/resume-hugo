@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue on Ирина Коржева</title>
+    <link>https://irinawinter.github.io/resume-hugo/public/tags/vue/</link>
+    <description>Recent content in Vue on Ирина Коржева</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 02 Jan 2022 12:41:05 -0500</lastBuildDate><atom:link href="https://irinawinter.github.io/resume-hugo/public/tags/vue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Страница регистрации</title>
+      <link>https://irinawinter.github.io/resume-hugo/public/projects/creations/registration/</link>
+      <pubDate>Sun, 02 Jan 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://irinawinter.github.io/resume-hugo/public/projects/creations/registration/</guid>
+      <description>Регистрация на сервисе требует заполнения 3 полей: имя, email, пароль. Валидация введенных пользователем данных происходит на сервере. В случае ошибки над формой выводится список не выполненных требований.</description>
+    </item>
+    
+  </channel>
+</rss>

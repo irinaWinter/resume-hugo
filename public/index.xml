@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Главная on Ирина Коржева</title>
+    <link>https://irinawinter.github.io/resume-hugo/public/</link>
+    <description>Recent content in Главная on Ирина Коржева</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://irinawinter.github.io/resume-hugo/public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Таймер</title>
+      <link>https://irinawinter.github.io/resume-hugo/public/projects/creations/timer/</link>
+      <pubDate>Sun, 02 Jan 2022 12:45:05 -0500</pubDate>
+      
+      <guid>https://irinawinter.github.io/resume-hugo/public/projects/creations/timer/</guid>
+      <description> Таймер запускается по клику на кнопку Start. После запуска слово Start меняется на слово Stop, нажав на которое можно остановить таймер. Нажатие на иконку шестеренок переводит таймер в режим редактирования времени. При истечении времени появляется оповещение в виде модального окна.  </description>
+    </item>
+    
+    <item>
+      <title>Онлайн-магазин</title>
+      <link>https://irinawinter.github.io/resume-hugo/public/projects/creations/shop/</link>
+      <pubDate>Sun, 02 Jan 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://irinawinter.github.io/resume-hugo/public/projects/creations/shop/</guid>
+      <description>Присутствует сортировка товаров по категориям, поиск по названию. При нажатии на кнопку Быстрый просмотр появляется модальное окно с детальной информацией о товаре.</description>
+    </item>
+    
+    <item>
+      <title>Страница регистрации</title>
+      <link>https://irinawinter.github.io/resume-hugo/public/projects/creations/registration/</link>
+      <pubDate>Sun, 02 Jan 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://irinawinter.github.io/resume-hugo/public/projects/creations/registration/</guid>
+      <description>Регистрация на сервисе требует заполнения 3 полей: имя, email, пароль. Валидация введенных пользователем данных происходит на сервере. В случае ошибки над формой выводится список не выполненных требований.</description>
+    </item>
+    
+    <item>
+      <title>Результаты поиска</title>
+      <link>https://irinawinter.github.io/resume-hugo/public/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://irinawinter.github.io/resume-hugo/public/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -170,3 +170,12 @@ a:focus,
 a:active {
   color: #824027;
 }
+
+.list-inline-item__img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  overflow: hidden;
+  object-fit: cover;
+  object-position: center;
+}

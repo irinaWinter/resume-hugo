@@ -37,7 +37,7 @@
         </li>
         {{ end }}
       </ul>
-      <h3>Соцсети</h3>
+      <h3>Контакты</h3>
       <ul class="list-inline list-social-icons mb-0">
         {{ range .Site.Params.handles }}
         <li class="list-inline-item">
@@ -47,6 +47,7 @@
             title="{{ .name }}"
             data-offset="0,10"
             rel="me"
+            target="_blank"
           >
             <span class="fa-stack fa-lg">
               <i class="fa fa-circle fa-stack-2x"></i>

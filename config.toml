@@ -27,6 +27,10 @@ showSkills = true
 link = "https://github.com/irinaWinter"
 name = "GitHub"
 
+[[params.handles]]
+link = "https://t.me/IrinaKorzheva"
+name = "Telegram"
+
 [outputs]
 home = ["HTML", "JSON"]
 

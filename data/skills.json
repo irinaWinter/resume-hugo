@@ -1,21 +1,39 @@
 [
   {
+    "grouping": "Вертска",
     "skills": [
-      "JavaScript",
-      "TypeScript (начальные знания)",
+      "Адаптивная, кроссбраузерная, семантичная верстка",
+      "HTML",
+      "Pug",
+      "CSS",
+      "Less",
+      "Sass"
+    ]
+  },
+  {
+    "grouping": "Языки программирования",
+    "skills": ["JavaScript", "TypeScript (начальные знания)"]
+  },
+  {
+    "grouping": "Библиотеки/фреймворки",
+    "skills": [
       "React",
       "Redux",
       "NextJS (SSR) (начальные знания)",
-      "HTML",
-      "CSS",
-      "Less",
-      "Sass",
       "styled-components",
-      "classnames",
-      "Адаптивная, кроссбраузерная, семантичная верстка",
-      "Инструменты сборки: Gulp, Webpack",
-      "Модульное тестирование (Jest, React-testing-library начальные знания)",
-      "NodeJS (начальные знания)"
+      "classnames"
     ]
+  },
+  {
+    "grouping": "Инструменты сборки",
+    "skills": ["Gulp", "Webpack"]
+  },
+  {
+    "grouping": "Тестирование",
+    "skills": ["Jest, React-testing-library (начальные знания)"]
+  },
+  {
+    "grouping": "Backend",
+    "skills": ["NodeJS, Express (начальные знания)"]
   }
 ]

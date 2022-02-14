@@ -1,7 +1,6 @@
 {
 "title": "Онлайн-магазин",
 "date": "2022-01-02T12:41:05-05:00",
-"image": "/resume-hugo/public/img/shop.png",
 "link": "https://github.com/irinaWinter/online-shop-react",
 "image": "img/shop.png",
 "description": "Присутствует сортировка товаров по категориям, поиск по названию. При нажатии на кнопку <b>Быстрый просмотр</b> появляется модальное окно с детальной информацией о товаре.",

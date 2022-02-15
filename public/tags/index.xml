@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Ирина Коржева</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 08 Feb 2022 16:19:35 +0300</lastBuildDate><atom:link href="https://irinawinter.github.io/resume-hugo/public/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Вёрстка</title>
-      <link>https://irinawinter.github.io/resume-hugo/public/tags/%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B0/</link>
-      <pubDate>Tue, 08 Feb 2022 16:19:35 +0300</pubDate>
-      
-      <guid>https://irinawinter.github.io/resume-hugo/public/tags/%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B0/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 15 Feb 2022 11:20:22 +0300</lastBuildDate><atom:link href="https://irinawinter.github.io/resume-hugo/public/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React</title>
       <link>https://irinawinter.github.io/resume-hugo/public/tags/react/</link>
-      <pubDate>Sun, 02 Jan 2022 12:45:05 -0500</pubDate>
+      <pubDate>Tue, 15 Feb 2022 11:20:22 +0300</pubDate>
       
       <guid>https://irinawinter.github.io/resume-hugo/public/tags/react/</guid>
       <description></description>
@@ -28,7 +19,7 @@
     <item>
       <title>Redux</title>
       <link>https://irinawinter.github.io/resume-hugo/public/tags/redux/</link>
-      <pubDate>Sun, 02 Jan 2022 12:45:05 -0500</pubDate>
+      <pubDate>Tue, 15 Feb 2022 11:20:22 +0300</pubDate>
       
       <guid>https://irinawinter.github.io/resume-hugo/public/tags/redux/</guid>
       <description></description>
@@ -37,9 +28,18 @@
     <item>
       <title>TypeScript</title>
       <link>https://irinawinter.github.io/resume-hugo/public/tags/typescript/</link>
-      <pubDate>Sun, 02 Jan 2022 12:45:05 -0500</pubDate>
+      <pubDate>Tue, 15 Feb 2022 11:20:22 +0300</pubDate>
       
       <guid>https://irinawinter.github.io/resume-hugo/public/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вёрстка</title>
+      <link>https://irinawinter.github.io/resume-hugo/public/tags/%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B0/</link>
+      <pubDate>Tue, 08 Feb 2022 16:19:35 +0300</pubDate>
+      
+      <guid>https://irinawinter.github.io/resume-hugo/public/tags/%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B0/</guid>
       <description></description>
     </item>
     

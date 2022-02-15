@@ -8,6 +8,15 @@
     <language>ru-ru</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://irinawinter.github.io/resume-hugo/public/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>E-commerce Component</title>
+      <link>https://irinawinter.github.io/resume-hugo/public/projects/creations/e-commerce-component-react/</link>
+      <pubDate>Tue, 15 Feb 2022 11:20:22 +0300</pubDate>
+      
+      <guid>https://irinawinter.github.io/resume-hugo/public/projects/creations/e-commerce-component-react/</guid>
+      <description>Меню и корзина располагаются на одной странице, меню - в левой части, корзина - в правой. Если корзина пуста, то отображается текст “Your cart is empty.” При добавлении товара в корзину автоматически подсчитывается промежуточная и итоговая стоимость заказа. Можно увеличивать или уменьшать количество товара, добавленного в корзину. Пользователь не может заказать отрицательное количество товаров. Чтобы быстро удалить товар из корзины можно нажать на кнопку &amp;ldquo;In cart&amp;rdquo; соответствующего товара в меню.</description>
+    </item>
+    
+    <item>
       <title>Лендинг Hungry People</title>
       <link>https://irinawinter.github.io/resume-hugo/public/projects/creations/landing-hungry-people/</link>
       <pubDate>Tue, 08 Feb 2022 16:19:35 +0300</pubDate>

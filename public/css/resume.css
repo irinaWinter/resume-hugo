@@ -179,3 +179,15 @@ a:active {
   object-fit: cover;
   object-position: center;
 }
+
+.project-single__img {
+  margin: 0 0 50px;
+  width: 100%;
+  max-width: 500px;
+}
+
+@media (max-width: 767px) {
+  .project-single__img {
+    margin: 0 0 30px;
+  }
+}
